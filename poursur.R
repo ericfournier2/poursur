@@ -44,6 +44,16 @@ ggplot(data=index_data) +
 		axis.line = element_line(colour = "black"))
 ggsave(filename="tiles.tiff", width=16, height=10)  
 
+ggplot(data=index_data) + 
+  geom_point(mapping=aes(x=no_sequentiel, y=nom_trame, color=nom_trame)) +
+  theme(legend.position="bottom",
+        panel.background = element_blank(),
+        panel.border = element_blank(), 
+		panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+		axis.line = element_line(colour = "black"))
+ggsave(filename="points.png", width=24, height=24)  
+
 library(circlize)
 
 drawCircos = function(index_data) {
@@ -84,8 +94,11 @@ dev.off()
 png("circos 144.png", width=6000, height=6000)
 par(mfrow=c(12, 12))
 for(i in 1:144) {
-    drawCircos(index_data[index_data$no_trame == i,]
+#  plot.new()
+  drawCircos(index_data[index_data$no_trame == i,])
+  title(index_data$nom_trame[index_data$no_trame == i][1])  
+  circos.clear()
 }
-circos.clear()
+
 dev.off()
 
