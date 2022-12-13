@@ -1,0 +1,1729 @@
+no_sequentiel	no_trame	ordre_dans_trame	nom_trame
+1	144	1	Exergues
+2	1	12	Chansons
+3	4	11	Scrabble
+4	37	7	Histoires d’animaux
+5	4	1	Scrabble
+6	2	2	Couleurs
+7	99	3	Noms
+8	37	1	Histoires d’animaux
+9	45	3	Détails inutiles
+10	93	6	Le temps
+11	30	2	Chiac
+12	130	8	Le travail
+13	4	2	Scrabble
+14	1	1	Chansons
+15	10	2	Typo
+16	15	11	Monologues non identifiés
+17	4	3	Scrabble
+18	8	2	Librairie Didot
+19	2	5	Couleurs
+20	1	2	Chansons
+21	10	1	Typo
+22	22	10	Dialogues en vrac
+23	2	6	Couleurs
+24	1	4	Chansons
+25	10	3	Typo
+26	31	2	Questions avec réponse
+27	4	4	Scrabble
+28	88	10	La liberté
+29	2	4	Couleurs
+30	1	3	Chansons
+31	11	4	Emprunts
+32	8	1	Librairie Didot
+33	45	5	Détails inutiles
+34	30	4	Chiac
+35	2	3	Couleurs
+36	45	9	Détails inutiles
+37	11	10	Emprunts
+38	13	1	La paternité
+39	10	4	Typo
+40	93	7	Le temps
+41	7	6	Détails utiles
+42	13	2	La paternité
+43	30	1	Chiac
+44	133	5	L’avenir
+45	3	3	Statistiques
+46	1	5	Chansons
+47	11	2	Emprunts
+48	33	8	Chiac détail
+49	10	5	Typo
+50	134	8	Marianne
+51	10	7	Typo
+52	35	2	Le détail dans le détail
+53	17	1	Hasards
+54	20	8	Langue
+55	45	11	Détails inutiles
+56	142	1	Notes
+57	131	4	Parenthèse(s)
+58	130	12	Le travail
+59	4	10	Scrabble
+60	7	11	Détails utiles
+61	2	7	Couleurs
+62	102	12	Le trio
+63	21	7	Détails plus ou moins utiles
+64	33	3	Chiac détail
+65	3	1	Statistiques
+66	1	6	Chansons
+67	4	5	Scrabble
+68	1	7	Chansons
+69	11	12	Emprunts
+70	15	10	Monologues non identifiés
+71	3	2	Statistiques
+72	8	3	Librairie Didot
+73	4	7	Scrabble
+74	33	11	Chiac détail
+75	96	10	Personnages
+76	13	3	La paternité
+77	4	8	Scrabble
+78	142	2	Notes
+79	10	8	Typo
+80	8	4	Librairie Didot
+81	10	9	Typo
+82	31	5	Questions avec réponse
+83	11	11	Emprunts
+84	104	2	Inquiétudes
+85	112	1	Langues
+86	8	5	Librairie Didot
+87	4	6	Scrabble
+88	6	1	Le Babar
+89	92	9	Questions sans réponse
+90	1	8	Chansons
+91	19	1	Détails intéressants
+92	8	6	Librairie Didot
+93	11	8	Emprunts
+94	30	7	Chiac
+95	68	1	Projets
+96	15	12	Monologues non identifiés
+97	10	10	Typo
+98	1	9	Chansons
+99	98	5	Expressions
+100	15	6	Monologues non identifiés
+101	39	4	Freud par la bande
+102	88	1	La liberté
+103	11	7	Emprunts
+104	82	2	Moncton
+105	33	5	Chiac détail
+106	13	9	La paternité
+107	138	1	L’Autre
+108	2	9	Couleurs
+109	39	1	Freud par la bande
+110	6	4	Le Babar
+111	10	11	Typo
+112	87	3	Le corps
+113	131	1	Parenthèse(s)
+114	2	10	Couleurs
+115	108	8	Rumeurs
+116	142	3	Notes
+117	3	4	Statistiques
+118	8	7	Librairie Didot
+119	19	3	Détails intéressants
+120	2	11	Couleurs
+121	39	2	Freud par la bande
+122	8	8	Librairie Didot
+123	12	1	Structure
+124	37	10	Histoires d’animaux
+125	11	6	Emprunts
+126	15	3	Monologues non identifiés
+127	21	9	Détails plus ou moins utiles
+128	30	10	Chiac
+129	12	2	Structure
+130	6	3	Le Babar
+131	3	5	Statistiques
+132	134	1	Marianne
+133	17	2	Hasards
+134	6	5	Le Babar
+135	10	12	Typo
+136	37	9	Histoires d’animaux
+137	35	3	Le détail dans le détail
+138	137	9	Peurs
+139	39	3	Freud par la bande
+140	30	8	Chiac
+141	7	9	Détails utiles
+142	15	8	Monologues non identifiés
+143	54	1	Oubli/rappel
+144	2	12	Couleurs
+145	144	2	Exergues
+146	8	9	Librairie Didot
+147	45	2	Détails inutiles
+148	103	1	Disparitions
+149	3	6	Statistiques
+150	94	10	Terry et Carmen
+151	54	9	Oubli/rappel
+152	84	7	Histoire
+153	105	10	Réserves
+154	97	1	Les chiffres et les nombres
+155	128	12	Ferveurs
+156	97	2	Les chiffres et les nombres
+157	19	4	Détails intéressants
+158	6	6	Le Babar
+159	12	3	Structure
+160	54	4	Oubli/rappel
+161	3	8	Statistiques
+162	63	12	Terry et Zed
+163	39	5	Freud par la bande
+164	15	1	Monologues non identifiés
+165	19	8	Détails intéressants
+166	130	3	Le travail
+167	17	4	Hasards
+168	20	2	Langue
+169	10	6	Typo
+170	6	7	Le Babar
+171	35	9	Le détail dans le détail
+172	103	8	Disparitions
+173	12	4	Structure
+174	8	10	Librairie Didot
+175	68	5	Projets
+176	142	4	Notes
+177	104	5	Inquiétudes
+178	87	1	Le corps
+179	12	5	Structure
+180	8	11	Librairie Didot
+181	34	1	Lacan
+182	30	11	Chiac
+183	3	9	Statistiques
+184	20	4	Langue
+185	3	10	Statistiques
+186	15	4	Monologues non identifiés
+187	89	1	Agacements
+188	8	12	Librairie Didot
+189	57	4	Photocopies
+190	14	1	Zablonski
+191	12	6	Structure
+192	14	2	Zablonski
+193	17	6	Hasards
+194	1	11	Chansons
+195	12	7	Structure
+196	21	5	Détails plus ou moins utiles
+197	57	1	Photocopies
+198	104	3	Inquiétudes
+199	141	6	Obsessions
+200	6	8	Le Babar
+201	71	1	Intro broderie
+202	17	7	Hasards
+203	19	9	Détails intéressants
+204	14	3	Zablonski
+205	12	8	Structure
+206	24	1	Élizabeth
+207	97	3	Les chiffres et les nombres
+208	22	7	Dialogues en vrac
+209	57	5	Photocopies
+210	14	4	Zablonski
+211	12	9	Structure
+212	142	5	Notes
+213	17	9	Hasards
+214	33	2	Chiac détail
+215	45	7	Détails inutiles
+216	22	1	Dialogues en vrac
+217	35	12	Le détail dans le détail
+218	14	5	Zablonski
+219	45	12	Détails inutiles
+220	72	1	Équations
+221	71	2	Intro broderie
+222	133	3	L’avenir
+223	58	7	Prolongements
+224	72	2	Équations
+225	11	3	Emprunts
+226	19	12	Détails intéressants
+227	7	10	Détails utiles
+228	142	6	Notes
+229	71	3	Intro broderie
+230	14	6	Zablonski
+231	39	7	Freud par la bande
+232	98	9	Expressions
+233	7	12	Détails utiles
+234	24	2	Élizabeth
+235	55	1	Haïkus
+236	6	9	Le Babar
+237	72	3	Équations
+238	14	7	Zablonski
+239	24	3	Élizabeth
+240	142	7	Notes
+241	11	1	Emprunts
+242	14	8	Zablonski
+243	46	2	La Bibliothèque idéale
+244	100	4	Proverbes
+245	46	3	La Bibliothèque idéale
+246	22	6	Dialogues en vrac
+247	7	8	Détails utiles
+248	30	3	Chiac
+249	3	11	Statistiques
+250	31	1	Questions avec réponse
+251	55	2	Haïkus
+252	14	9	Zablonski
+253	46	1	La Bibliothèque idéale
+254	100	2	Proverbes
+255	72	4	Équations
+256	6	10	Le Babar
+257	90	1	Lettres
+258	24	4	Élizabeth
+259	19	10	Détails intéressants
+260	30	12	Chiac
+261	24	5	Élizabeth
+262	100	3	Proverbes
+263	46	4	La Bibliothèque idéale
+264	18	7	Une place pour le monde
+265	58	1	Prolongements
+266	24	6	Élizabeth
+267	72	5	Équations
+268	14	10	Zablonski
+269	71	4	Intro broderie
+270	100	6	Proverbes
+271	32	1	Problèmes d’examen
+272	100	5	Proverbes
+273	72	6	Équations
+274	54	10	Oubli/rappel
+275	12	11	Structure
+276	24	7	Élizabeth
+277	33	1	Chiac détail
+278	14	11	Zablonski
+279	46	5	La Bibliothèque idéale
+280	100	7	Proverbes
+281	46	6	La Bibliothèque idéale
+282	100	12	Proverbes
+283	97	4	Les chiffres et les nombres
+284	24	8	Élizabeth
+285	90	2	Lettres
+286	14	12	Zablonski
+287	12	10	Structure
+288	31	11	Questions avec réponse
+289	144	3	Exergues
+290	87	2	Le corps
+291	54	6	Oubli/rappel
+292	6	11	Le Babar
+293	71	5	Intro broderie
+294	142	8	Notes
+295	34	2	Lacan
+296	97	5	Les chiffres et les nombres
+297	46	7	La Bibliothèque idéale
+298	100	1	Proverbes
+299	39	9	Freud par la bande
+300	87	4	Le corps
+301	46	8	La Bibliothèque idéale
+302	2	1	Couleurs
+303	35	8	Le détail dans le détail
+304	6	2	Le Babar
+305	64	4	Contraires
+306	39	6	Freud par la bande
+307	46	9	La Bibliothèque idéale
+308	24	10	Élizabeth
+309	34	6	Lacan
+310	143	9	Varia
+311	19	2	Détails intéressants
+312	82	1	Moncton
+313	138	2	L’Autre
+314	72	7	Équations
+315	78	2	Accidents
+316	5	1	Un film
+317	89	2	Agacements
+318	24	9	Élizabeth
+319	83	5	Jouissance et couleur
+320	5	2	Un film
+321	35	7	Le détail dans le détail
+322	72	8	Équations
+323	46	10	La Bibliothèque idéale
+324	22	12	Dialogues en vrac
+325	21	6	Détails plus ou moins utiles
+326	24	11	Élizabeth
+327	32	2	Problèmes d’examen
+328	5	3	Un film
+329	97	7	Les chiffres et les nombres
+330	5	4	Un film
+331	46	11	La Bibliothèque idéale
+332	5	5	Un film
+333	72	9	Équations
+334	39	8	Freud par la bande
+335	76	1	Avatars
+336	5	6	Un film
+337	34	5	Lacan
+338	142	9	Notes
+339	72	10	Équations
+340	5	7	Un film
+341	34	4	Lacan
+342	5	8	Un film
+343	46	12	La Bibliothèque idéale
+344	117	1	La mort
+345	20	10	Langue
+346	9	1	Le potager
+347	83	3	Jouissance et couleur
+348	5	9	Un film
+349	71	6	Intro broderie
+350	31	9	Questions avec réponse
+351	55	3	Haïkus
+352	72	11	Équations
+353	89	4	Agacements
+354	5	10	Un film
+355	32	5	Problèmes d’examen
+356	31	6	Questions avec réponse
+357	19	5	Détails intéressants
+358	5	11	Un film
+359	37	4	Histoires d’animaux
+360	5	12	Un film
+361	48	1	Inférences
+362	97	8	Les chiffres et les nombres
+363	39	10	Freud par la bande
+364	26	1	Le film
+365	34	8	Lacan
+366	49	1	Élizabeth II
+367	48	2	Inférences
+368	6	12	Le Babar
+369	34	10	Lacan
+370	26	2	Le film
+371	97	10	Les chiffres et les nombres
+372	26	3	Le film
+373	39	11	Freud par la bande
+374	26	4	Le film
+375	34	9	Lacan
+376	27	1	Voiture neuve
+377	45	4	Détails inutiles
+378	133	2	L’avenir
+379	21	3	Détails plus ou moins utiles
+380	107	1	Nécessités
+381	58	2	Prolongements
+382	26	5	Le film
+383	56	1	Pèlerinages
+384	92	3	Questions sans réponse
+385	7	4	Détails utiles
+386	26	6	Le film
+387	72	12	Équations
+388	25	5	Meurtre
+389	96	2	Personnages
+390	9	3	Le potager
+391	97	11	Les chiffres et les nombres
+392	26	7	Le film
+393	48	3	Inférences
+394	26	8	Le film
+395	97	12	Les chiffres et les nombres
+396	27	2	Voiture neuve
+397	48	4	Inférences
+398	30	5	Chiac
+399	57	10	Photocopies
+400	27	3	Voiture neuve
+401	34	7	Lacan
+402	92	1	Questions sans réponse
+403	48	5	Inférences
+404	27	4	Voiture neuve
+405	76	6	Avatars
+406	142	10	Notes
+407	54	7	Oubli/rappel
+408	9	2	Le potager
+409	48	6	Inférences
+410	9	4	Le potager
+411	48	7	Inférences
+412	27	5	Voiture neuve
+413	7	3	Détails utiles
+414	143	5	Varia
+415	39	12	Freud par la bande
+416	27	6	Voiture neuve
+417	34	11	Lacan
+418	31	3	Questions avec réponse
+419	105	7	Réserves
+420	27	8	Voiture neuve
+421	120	6	Fictionnaire
+422	27	9	Voiture neuve
+423	48	8	Inférences
+424	26	9	Le film
+425	34	12	Lacan
+426	109	8	Rêves
+427	35	1	Le détail dans le détail
+428	27	10	Voiture neuve
+429	78	4	Accidents
+430	27	11	Voiture neuve
+431	33	9	Chiac détail
+432	27	12	Voiture neuve
+433	144	4	Exergues
+434	26	10	Le film
+435	48	9	Inférences
+436	28	1	Une vie de couple
+437	76	2	Avatars
+438	26	11	Le film
+439	66	1	Les vertus
+440	28	2	Une vie de couple
+441	48	10	Inférences
+442	28	3	Une vie de couple
+443	66	2	Les vertus
+444	27	7	Voiture neuve
+445	61	1	Sciences humaines
+446	28	4	Une vie de couple
+447	1	10	Chansons
+448	18	1	Une place pour le monde
+449	61	2	Sciences humaines
+450	16	1	L’Infirme
+451	66	3	Les vertus
+452	18	2	Une place pour le monde
+453	48	11	Inférences
+454	28	5	Une vie de couple
+455	61	3	Sciences humaines
+456	16	2	L’Infirme
+457	66	4	Les vertus
+458	22	11	Dialogues en vrac
+459	66	9	Les vertus
+460	26	12	Le film
+461	61	4	Sciences humaines
+462	35	10	Le détail dans le détail
+463	66	6	Les vertus
+464	140	4	Caraquet
+465	65	2	Cousins cousines
+466	16	3	L’Infirme
+467	61	5	Sciences humaines
+468	41	8	La vie des saints
+469	117	3	La mort
+470	140	5	Caraquet
+471	33	4	Chiac détail
+472	87	8	Le corps
+473	66	5	Les vertus
+474	16	4	L’Infirme
+475	61	6	Sciences humaines
+476	18	5	Une place pour le monde
+477	65	3	Cousins cousines
+478	22	4	Dialogues en vrac
+479	117	12	La mort
+480	18	8	Une place pour le monde
+481	58	6	Prolongements
+482	18	3	Une place pour le monde
+483	65	6	Cousins cousines
+484	22	5	Dialogues en vrac
+485	65	4	Cousins cousines
+486	73	12	Virages
+487	65	8	Cousins cousines
+488	35	4	Le détail dans le détail
+489	47	3	Abandons
+490	18	9	Une place pour le monde
+491	35	5	Le détail dans le détail
+492	18	10	Une place pour le monde
+493	61	11	Sciences humaines
+494	21	2	Détails plus ou moins utiles
+495	45	8	Détails inutiles
+496	22	3	Dialogues en vrac
+497	61	7	Sciences humaines
+498	125	1	La sexualité
+499	98	12	Expressions
+500	22	2	Dialogues en vrac
+501	65	10	Cousins cousines
+502	20	5	Langue
+503	58	10	Prolongements
+504	131	3	Parenthèse(s)
+505	65	7	Cousins cousines
+506	18	6	Une place pour le monde
+507	33	7	Chiac détail
+508	143	10	Varia
+509	65	9	Cousins cousines
+510	41	12	La vie des saints
+511	11	5	Emprunts
+512	142	11	Notes
+513	131	5	Parenthèse(s)
+514	64	7	Contraires
+515	61	8	Sciences humaines
+516	64	3	Contraires
+517	74	2	Hans
+518	18	11	Une place pour le monde
+519	56	5	Pèlerinages
+520	13	4	La paternité
+521	74	1	Hans
+522	18	12	Une place pour le monde
+523	74	3	Hans
+524	13	12	La paternité
+525	70	10	Erreurs
+526	129	11	Fantasmes
+527	74	4	Hans
+528	28	6	Une vie de couple
+529	65	12	Cousins cousines
+530	13	8	La paternité
+531	74	5	Hans
+532	137	1	Peurs
+533	89	3	Agacements
+534	142	12	Notes
+535	83	2	Jouissance et couleur
+536	124	1	La religion
+537	66	12	Les vertus
+538	101	1	Duos
+539	78	9	Accidents
+540	13	6	La paternité
+541	33	10	Chiac détail
+542	137	3	Peurs
+543	131	8	Parenthèse(s)
+544	25	1	Meurtre
+545	74	6	Hans
+546	25	2	Meurtre
+547	74	7	Hans
+548	25	3	Meurtre
+549	83	8	Jouissance et couleur
+550	28	7	Une vie de couple
+551	83	1	Jouissance et couleur
+552	25	4	Meurtre
+553	71	9	Intro broderie
+554	28	8	Une vie de couple
+555	66	7	Les vertus
+556	28	9	Une vie de couple
+557	67	6	Carnets de Terry
+558	28	10	Une vie de couple
+559	83	4	Jouissance et couleur
+560	25	6	Meurtre
+561	109	3	Rêves
+562	28	11	Une vie de couple
+563	110	2	Un jour de congé
+564	25	7	Meurtre
+565	33	6	Chiac détail
+566	28	12	Une vie de couple
+567	129	10	Fantasmes
+568	25	8	Meurtre
+569	99	2	Noms
+570	25	9	Meurtre
+571	90	12	Lettres
+572	25	10	Meurtre
+573	99	1	Noms
+574	25	11	Meurtre
+575	74	8	Hans
+576	94	2	Terry et Carmen
+577	144	5	Exergues
+578	9	6	Le potager
+579	78	7	Accidents
+580	86	10	Excuses
+581	33	12	Chiac détail
+582	13	10	La paternité
+583	11	9	Emprunts
+584	127	11	Tactiques
+585	58	5	Prolongements
+586	43	1	Amour
+587	54	8	Oubli/rappel
+588	13	7	La paternité
+589	20	3	Langue
+590	137	6	Peurs
+591	131	9	Parenthèse(s)
+592	9	7	Le potager
+593	120	1	Fictionnaire
+594	9	8	Le potager
+595	83	7	Jouissance et couleur
+596	125	6	La sexualité
+597	31	4	Questions avec réponse
+598	9	9	Le potager
+599	20	6	Langue
+600	9	10	Le potager
+601	70	2	Erreurs
+602	30	6	Chiac
+603	20	7	Langue
+604	9	11	Le potager
+605	70	3	Erreurs
+606	106	6	Us et coutumes
+607	95	1	Ajouts à La Bibliothèque idéale
+608	117	4	La mort
+609	58	9	Prolongements
+610	9	12	Le potager
+611	20	9	Langue
+612	37	6	Histoires d’animaux
+613	95	3	Ajouts à La Bibliothèque idéale
+614	16	5	L’Infirme
+615	70	4	Erreurs
+616	43	3	Amour
+617	21	11	Détails plus ou moins utiles
+618	137	4	Peurs
+619	95	2	Ajouts à La Bibliothèque idéale
+620	113	7	Collections
+621	70	5	Erreurs
+622	57	6	Photocopies
+623	95	4	Ajouts à La Bibliothèque idéale
+624	23	1	Patates
+625	21	4	Détails plus ou moins utiles
+626	23	2	Patates
+627	71	7	Intro broderie
+628	43	9	Amour
+629	3	12	Statistiques
+630	44	1	Parrains et marraines
+631	83	6	Jouissance et couleur
+632	126	11	Techniques
+633	70	6	Erreurs
+634	44	2	Parrains et marraines
+635	70	7	Erreurs
+636	44	3	Parrains et marraines
+637	83	11	Jouissance et couleur
+638	44	4	Parrains et marraines
+639	120	9	Fictionnaire
+640	37	2	Histoires d’animaux
+641	20	11	Langue
+642	109	6	Rêves
+643	98	1	Expressions
+644	44	6	Parrains et marraines
+645	95	5	Ajouts à La Bibliothèque idéale
+646	23	3	Patates
+647	54	2	Oubli/rappel
+648	59	1	Savoirs
+649	19	7	Détails intéressants
+650	101	8	Duos
+651	70	9	Erreurs
+652	44	5	Parrains et marraines
+653	35	6	Le détail dans le détail
+654	49	4	Élizabeth II
+655	60	2	Superstitions
+656	88	6	La liberté
+657	68	3	Projets
+658	140	7	Caraquet
+659	45	10	Détails inutiles
+660	40	1	Ménage ton ravage
+661	78	3	Accidents
+662	40	2	Ménage ton ravage
+663	116	5	Vrai ou faux
+664	40	3	Ménage ton ravage
+665	54	5	Oubli/rappel
+666	51	1	Mots croisés
+667	58	3	Prolongements
+668	40	4	Ménage ton ravage
+669	60	10	Superstitions
+670	40	5	Ménage ton ravage
+671	104	1	Inquiétudes
+672	51	2	Mots croisés
+673	61	10	Sciences humaines
+674	40	6	Ménage ton ravage
+675	83	9	Jouissance et couleur
+676	40	7	Ménage ton ravage
+677	61	12	Sciences humaines
+678	82	6	Moncton
+679	138	3	L’Autre
+680	51	4	Mots croisés
+681	97	9	Les chiffres et les nombres
+682	40	8	Ménage ton ravage
+683	138	4	L’Autre
+684	51	5	Mots croisés
+685	116	2	Vrai ou faux
+686	40	9	Ménage ton ravage
+687	95	6	Ajouts à La Bibliothèque idéale
+688	47	5	Abandons
+689	81	1	Titres
+690	40	10	Ménage ton ravage
+691	138	5	L’Autre
+692	51	6	Mots croisés
+693	83	10	Jouissance et couleur
+694	40	11	Ménage ton ravage
+695	81	2	Titres
+696	59	3	Savoirs
+697	138	6	L’Autre
+698	40	12	Ménage ton ravage
+699	138	7	L’Autre
+700	59	4	Savoirs
+701	83	12	Jouissance et couleur
+702	51	8	Mots croisés
+703	89	6	Agacements
+704	51	3	Mots croisés
+705	138	8	L’Autre
+706	44	7	Parrains et marraines
+707	128	8	Ferveurs
+708	51	7	Mots croisés
+709	74	12	Hans
+710	51	9	Mots croisés
+711	55	4	Haïkus
+712	51	10	Mots croisés
+713	103	6	Disparitions
+714	44	8	Parrains et marraines
+715	98	10	Expressions
+716	51	12	Mots croisés
+717	105	9	Réserves
+718	43	11	Amour
+719	131	6	Parenthèse(s)
+720	43	12	Amour
+721	144	6	Exergues
+722	103	2	Disparitions
+723	116	4	Vrai ou faux
+724	44	9	Parrains et marraines
+725	43	5	Amour
+726	101	2	Duos
+727	68	4	Projets
+728	44	10	Parrains et marraines
+729	92	2	Questions sans réponse
+730	101	3	Duos
+731	60	5	Superstitions
+732	49	2	Élizabeth II
+733	76	8	Avatars
+734	44	11	Parrains et marraines
+735	90	10	Lettres
+736	59	5	Savoirs
+737	106	10	Us et coutumes
+738	44	12	Parrains et marraines
+739	51	11	Mots croisés
+740	109	9	Rêves
+741	98	2	Expressions
+742	16	7	L’Infirme
+743	120	4	Fictionnaire
+744	104	9	Inquiétudes
+745	32	4	Problèmes d’examen
+746	16	8	L’Infirme
+747	54	3	Oubli/rappel
+748	49	6	Élizabeth II
+749	43	7	Amour
+750	16	9	L’Infirme
+751	95	8	Ajouts à La Bibliothèque idéale
+752	137	12	Peurs
+753	7	5	Détails utiles
+754	29	1	En route
+755	96	4	Personnages
+756	29	2	En route
+757	122	3	Sports
+758	49	7	Élizabeth II
+759	99	5	Noms
+760	29	3	En route
+761	136	2	L’inavouable
+762	49	8	Élizabeth II
+763	43	6	Amour
+764	29	4	En route
+765	136	3	L’inavouable
+766	49	9	Élizabeth II
+767	136	1	L’inavouable
+768	29	5	En route
+769	21	1	Détails plus ou moins utiles
+770	29	6	En route
+771	3	7	Statistiques
+772	49	10	Élizabeth II
+773	136	4	L’inavouable
+774	29	7	En route
+775	122	2	Sports
+776	49	3	Élizabeth II
+777	138	9	L’Autre
+778	29	8	En route
+779	114	5	Inventions
+780	137	2	Peurs
+781	120	7	Fictionnaire
+782	49	11	Élizabeth II
+783	120	8	Fictionnaire
+784	29	9	En route
+785	122	5	Sports
+786	49	12	Élizabeth II
+787	126	5	Techniques
+788	29	10	En route
+789	127	2	Tactiques
+790	47	1	Abandons
+791	128	2	Ferveurs
+792	29	11	En route
+793	129	3	Fantasmes
+794	106	1	Us et coutumes
+795	136	5	L’inavouable
+796	29	12	En route
+797	71	11	Intro broderie
+798	59	12	Savoirs
+799	55	5	Haïkus
+800	76	9	Avatars
+801	57	2	Photocopies
+802	43	8	Amour
+803	138	12	L’Autre
+804	52	1	Cérémonie
+805	55	6	Haïkus
+806	64	5	Contraires
+807	43	4	Amour
+808	52	2	Cérémonie
+809	120	12	Fictionnaire
+810	59	11	Savoirs
+811	45	1	Détails inutiles
+812	52	3	Cérémonie
+813	107	6	Nécessités
+814	23	5	Patates
+815	121	9	Choses à vouloir
+816	52	4	Cérémonie
+817	2	8	Couleurs
+818	141	1	Obsessions
+819	87	11	Le corps
+820	86	1	Excuses
+821	71	8	Intro broderie
+822	143	1	Varia
+823	95	10	Ajouts à La Bibliothèque idéale
+824	52	6	Cérémonie
+825	55	7	Haïkus
+826	71	12	Intro broderie
+827	111	1	Outils
+828	86	2	Excuses
+829	136	6	L’inavouable
+830	52	5	Cérémonie
+831	111	4	Outils
+832	36	1	Fraises
+833	136	7	L’inavouable
+834	36	2	Fraises
+835	136	8	L’inavouable
+836	52	7	Cérémonie
+837	55	8	Haïkus
+838	111	7	Outils
+839	140	11	Caraquet
+840	36	3	Fraises
+841	127	12	Tactiques
+842	36	4	Fraises
+843	122	1	Sports
+844	36	5	Fraises
+845	126	1	Techniques
+846	36	6	Fraises
+847	73	2	Virages
+848	36	7	Fraises
+849	126	9	Techniques
+850	36	8	Fraises
+851	57	9	Photocopies
+852	36	10	Fraises
+853	122	7	Sports
+854	143	2	Varia
+855	68	9	Projets
+856	52	8	Cérémonie
+857	122	6	Sports
+858	52	9	Cérémonie
+859	111	2	Outils
+860	52	10	Cérémonie
+861	42	5	Triage
+862	52	11	Cérémonie
+863	56	3	Pèlerinages
+864	52	12	Cérémonie
+865	144	7	Exergues
+866	50	10	Fundy
+867	116	7	Vrai ou faux
+868	50	11	Fundy
+869	62	1	Sondage/hommes
+870	124	2	La religion
+871	77	1	Grammaire
+872	23	4	Patates
+873	69	1	Sondage/femmes
+874	50	3	Fundy
+875	92	4	Questions sans réponse
+876	98	6	Expressions
+877	62	2	Sondage/hommes
+878	143	6	Varia
+879	69	2	Sondage/femmes
+880	126	6	Techniques
+881	25	12	Meurtre
+882	50	1	Fundy
+883	98	7	Expressions
+884	59	8	Savoirs
+885	73	5	Virages
+886	50	2	Fundy
+887	77	3	Grammaire
+888	50	4	Fundy
+889	62	3	Sondage/hommes
+890	79	6	Étrangetés
+891	69	3	Sondage/femmes
+892	50	5	Fundy
+893	77	4	Grammaire
+894	50	6	Fundy
+895	62	4	Sondage/hommes
+896	106	9	Us et coutumes
+897	79	8	Étrangetés
+898	50	7	Fundy
+899	124	6	La religion
+900	50	8	Fundy
+901	77	5	Grammaire
+902	59	7	Savoirs
+903	111	3	Outils
+904	50	9	Fundy
+905	69	4	Sondage/femmes
+906	127	9	Tactiques
+907	62	5	Sondage/hommes
+908	50	12	Fundy
+909	69	5	Sondage/femmes
+910	16	6	L’Infirme
+911	76	5	Avatars
+912	38	1	Oignons
+913	62	6	Sondage/hommes
+914	111	10	Outils
+915	69	6	Sondage/femmes
+916	38	2	Oignons
+917	99	10	Noms
+918	59	9	Savoirs
+919	77	6	Grammaire
+920	73	1	Virages
+921	7	2	Détails utiles
+922	122	9	Sports
+923	76	3	Avatars
+924	59	10	Savoirs
+925	73	6	Virages
+926	53	1	Consommateurs avertis
+927	62	7	Sondage/hommes
+928	53	2	Consommateurs avertis
+929	73	9	Virages
+930	38	3	Oignons
+931	69	7	Sondage/femmes
+932	53	3	Consommateurs avertis
+933	62	8	Sondage/hommes
+934	134	2	Marianne
+935	95	7	Ajouts à La Bibliothèque idéale
+936	53	4	Consommateurs avertis
+937	69	8	Sondage/femmes
+938	141	2	Obsessions
+939	62	9	Sondage/hommes
+940	53	5	Consommateurs avertis
+941	48	12	Inférences
+942	53	6	Consommateurs avertis
+943	77	7	Grammaire
+944	63	11	Terry et Zed
+945	69	9	Sondage/femmes
+946	53	7	Consommateurs avertis
+947	127	4	Tactiques
+948	131	7	Parenthèse(s)
+949	129	8	Fantasmes
+950	49	5	Élizabeth II
+951	62	10	Sondage/hommes
+952	53	8	Consommateurs avertis
+953	69	10	Sondage/femmes
+954	141	7	Obsessions
+955	38	4	Oignons
+956	53	9	Consommateurs avertis
+957	32	7	Problèmes d’examen
+958	59	6	Savoirs
+959	42	7	Triage
+960	143	8	Varia
+961	62	11	Sondage/hommes
+962	53	10	Consommateurs avertis
+963	69	11	Sondage/femmes
+964	93	12	Le temps
+965	138	10	L’Autre
+966	53	11	Consommateurs avertis
+967	77	8	Grammaire
+968	38	9	Oignons
+969	68	7	Projets
+970	53	12	Consommateurs avertis
+971	38	10	Oignons
+972	101	6	Duos
+973	75	1	Tankas
+974	133	4	L’avenir
+975	75	2	Tankas
+976	73	11	Virages
+977	107	5	Nécessités
+978	86	6	Excuses
+979	122	8	Sports
+980	23	6	Patates
+981	128	3	Ferveurs
+982	126	2	Techniques
+983	68	6	Projets
+984	87	10	Le corps
+985	38	11	Oignons
+986	113	2	Collections
+987	62	12	Sondage/hommes
+988	102	1	Le trio
+989	104	7	Inquiétudes
+990	102	2	Le trio
+991	120	5	Fictionnaire
+992	113	1	Collections
+993	136	9	L’inavouable
+994	102	3	Le trio
+995	136	10	L’inavouable
+996	113	3	Collections
+997	86	4	Excuses
+998	113	5	Collections
+999	136	11	L’inavouable
+1000	102	4	Le trio
+1001	69	12	Sondage/femmes
+1002	102	5	Le trio
+1003	38	6	Oignons
+1004	101	7	Duos
+1005	99	6	Noms
+1006	126	12	Techniques
+1007	30	9	Chiac
+1008	102	6	Le trio
+1009	144	8	Exergues
+1010	102	7	Le trio
+1011	7	1	Détails utiles
+1012	106	8	Us et coutumes
+1013	93	9	Le temps
+1014	141	8	Obsessions
+1015	81	3	Titres
+1016	143	7	Varia
+1017	38	12	Oignons
+1018	84	1	Histoire
+1019	55	9	Haïkus
+1020	84	2	Histoire
+1021	42	10	Triage
+1022	124	3	La religion
+1023	66	8	Les vertus
+1024	73	4	Virages
+1025	42	3	Triage
+1026	104	4	Inquiétudes
+1027	111	9	Outils
+1028	87	5	Le corps
+1029	42	6	Triage
+1030	84	3	Histoire
+1031	88	4	La liberté
+1032	103	7	Disparitions
+1033	67	3	Carnets de Terry
+1034	92	8	Questions sans réponse
+1035	66	11	Les vertus
+1036	92	5	Questions sans réponse
+1037	112	6	Langues
+1038	124	4	La religion
+1039	65	11	Cousins cousines
+1040	124	5	La religion
+1041	42	1	Triage
+1042	84	4	Histoire
+1043	17	5	Hasards
+1044	63	1	Terry et Zed
+1045	47	10	Abandons
+1046	63	2	Terry et Zed
+1047	95	11	Ajouts à La Bibliothèque idéale
+1048	63	3	Terry et Zed
+1049	132	4	Lapsus
+1050	15	2	Monologues non identifiés
+1051	78	11	Accidents
+1052	123	1	Carmen et Étienne
+1053	54	11	Oubli/rappel
+1054	84	5	Histoire
+1055	99	11	Noms
+1056	129	2	Fantasmes
+1057	89	10	Agacements
+1058	47	7	Abandons
+1059	42	4	Triage
+1060	123	2	Carmen et Étienne
+1061	120	11	Fictionnaire
+1062	123	3	Carmen et Étienne
+1063	60	7	Superstitions
+1064	84	6	Histoire
+1065	68	10	Projets
+1066	15	9	Monologues non identifiés
+1067	105	1	Réserves
+1068	87	6	Le corps
+1069	128	5	Ferveurs
+1070	87	7	Le corps
+1071	132	8	Lapsus
+1072	82	10	Moncton
+1073	81	7	Titres
+1074	84	8	Histoire
+1075	81	6	Titres
+1076	64	10	Contraires
+1077	132	11	Lapsus
+1078	37	8	Histoires d’animaux
+1079	118	1	À propos du jaune
+1080	124	9	La religion
+1081	70	8	Erreurs
+1082	135	3	Zed et Chico
+1083	99	12	Noms
+1084	93	11	Le temps
+1085	132	3	Lapsus
+1086	116	6	Vrai ou faux
+1087	81	8	Titres
+1088	106	2	Us et coutumes
+1089	84	9	Histoire
+1090	141	5	Obsessions
+1091	116	1	Vrai ou faux
+1092	89	5	Agacements
+1093	118	2	À propos du jaune
+1094	139	5	Étienne et Chico
+1095	84	10	Histoire
+1096	117	5	La mort
+1097	60	4	Superstitions
+1098	143	3	Varia
+1099	132	1	Lapsus
+1100	63	4	Terry et Zed
+1101	112	2	Langues
+1102	87	12	Le corps
+1103	118	3	À propos du jaune
+1104	109	4	Rêves
+1105	32	6	Problèmes d’examen
+1106	63	5	Terry et Zed
+1107	112	3	Langues
+1108	137	5	Peurs
+1109	78	8	Accidents
+1110	63	6	Terry et Zed
+1111	93	10	Le temps
+1112	101	12	Duos
+1113	36	11	Fraises
+1114	63	7	Terry et Zed
+1115	60	3	Superstitions
+1116	63	8	Terry et Zed
+1117	140	1	Caraquet
+1118	103	5	Disparitions
+1119	112	11	Langues
+1120	86	12	Excuses
+1121	96	6	Personnages
+1122	143	4	Varia
+1123	55	11	Haïkus
+1124	139	8	Étienne et Chico
+1125	56	2	Pèlerinages
+1126	92	12	Questions sans réponse
+1127	108	11	Rumeurs
+1128	106	5	Us et coutumes
+1129	91	11	Le poète
+1130	63	10	Terry et Zed
+1131	118	4	À propos du jaune
+1132	138	11	L’Autre
+1133	112	7	Langues
+1134	88	3	La liberté
+1135	67	1	Carnets de Terry
+1136	122	4	Sports
+1137	117	10	La mort
+1138	135	2	Zed et Chico
+1139	17	10	Hasards
+1140	117	7	La mort
+1141	60	8	Superstitions
+1142	93	4	Le temps
+1143	112	8	Langues
+1144	35	11	Le détail dans le détail
+1145	81	9	Titres
+1146	140	6	Caraquet
+1147	132	10	Lapsus
+1148	123	9	Carmen et Étienne
+1149	54	12	Oubli/rappel
+1150	101	5	Duos
+1151	99	7	Noms
+1152	94	1	Terry et Carmen
+1153	144	9	Exergues
+1154	91	1	Le poète
+1155	90	4	Lettres
+1156	91	2	Le poète
+1157	84	11	Histoire
+1158	91	3	Le poète
+1159	116	8	Vrai ou faux
+1160	123	4	Carmen et Étienne
+1161	112	9	Langues
+1162	91	4	Le poète
+1163	131	11	Parenthèse(s)
+1164	135	9	Zed et Chico
+1165	77	10	Grammaire
+1166	91	5	Le poète
+1167	118	8	À propos du jaune
+1168	47	6	Abandons
+1169	77	11	Grammaire
+1170	123	5	Carmen et Étienne
+1171	58	12	Prolongements
+1172	123	6	Carmen et Étienne
+1173	77	12	Grammaire
+1174	91	6	Le poète
+1175	90	5	Lettres
+1176	123	7	Carmen et Étienne
+1177	58	4	Prolongements
+1178	128	11	Ferveurs
+1179	118	7	À propos du jaune
+1180	101	9	Duos
+1181	12	12	Structure
+1182	118	9	À propos du jaune
+1183	64	6	Contraires
+1184	91	7	Le poète
+1185	79	11	Étrangetés
+1186	91	8	Le poète
+1187	65	5	Cousins cousines
+1188	15	7	Monologues non identifiés
+1189	140	8	Caraquet
+1190	119	1	La musique
+1191	113	4	Collections
+1192	91	9	Le poète
+1193	68	11	Projets
+1194	123	10	Carmen et Étienne
+1195	79	9	Étrangetés
+1196	119	2	La musique
+1197	90	8	Lettres
+1198	91	12	Le poète
+1199	64	8	Contraires
+1200	118	6	À propos du jaune
+1201	79	10	Étrangetés
+1202	37	11	Histoires d’animaux
+1203	17	12	Hasards
+1204	119	3	La musique
+1205	75	9	Tankas
+1206	105	3	Réserves
+1207	118	5	À propos du jaune
+1208	113	9	Collections
+1209	75	6	Tankas
+1210	102	9	Le trio
+1211	122	12	Sports
+1212	117	8	La mort
+1213	42	11	Triage
+1214	143	12	Varia
+1215	90	6	Lettres
+1216	119	4	La musique
+1217	120	10	Fictionnaire
+1218	23	9	Patates
+1219	57	3	Photocopies
+1220	102	8	Le trio
+1221	132	7	Lapsus
+1222	100	9	Proverbes
+1223	111	6	Outils
+1224	92	10	Questions sans réponse
+1225	98	11	Expressions
+1226	100	10	Proverbes
+1227	114	12	Inventions
+1228	100	11	Proverbes
+1229	90	7	Lettres
+1230	13	5	La paternité
+1231	127	1	Tactiques
+1232	119	5	La musique
+1233	21	10	Détails plus ou moins utiles
+1234	107	2	Nécessités
+1235	75	4	Tankas
+1236	106	11	Us et coutumes
+1237	20	12	Langue
+1238	23	7	Patates
+1239	128	9	Ferveurs
+1240	137	7	Peurs
+1241	90	11	Lettres
+1242	113	8	Collections
+1243	75	7	Tankas
+1244	88	8	La liberté
+1245	121	2	Choses à vouloir
+1246	105	6	Réserves
+1247	64	9	Contraires
+1248	93	5	Le temps
+1249	111	12	Outils
+1250	119	6	La musique
+1251	75	8	Tankas
+1252	84	12	Histoire
+1253	67	9	Carnets de Terry
+1254	117	6	La mort
+1255	129	4	Fantasmes
+1256	31	12	Questions avec réponse
+1257	118	11	À propos du jaune
+1258	103	3	Disparitions
+1259	55	10	Haïkus
+1260	119	7	La musique
+1261	79	2	Étrangetés
+1262	126	3	Techniques
+1263	88	9	La liberté
+1264	101	11	Duos
+1265	68	12	Projets
+1266	89	9	Agacements
+1267	127	5	Tactiques
+1268	141	4	Obsessions
+1269	96	5	Personnages
+1270	16	11	L’Infirme
+1271	116	3	Vrai ou faux
+1272	135	5	Zed et Chico
+1273	64	1	Contraires
+1274	113	6	Collections
+1275	131	12	Parenthèse(s)
+1276	114	6	Inventions
+1277	120	2	Fictionnaire
+1278	114	4	Inventions
+1279	70	1	Erreurs
+1280	122	11	Sports
+1281	118	12	À propos du jaune
+1282	82	9	Moncton
+1283	47	11	Abandons
+1284	119	8	La musique
+1285	105	2	Réserves
+1286	108	1	Rumeurs
+1287	75	10	Tankas
+1288	134	12	Marianne
+1289	121	11	Choses à vouloir
+1290	41	7	La vie des saints
+1291	42	2	Triage
+1292	78	6	Accidents
+1293	42	12	Triage
+1294	139	6	Étienne et Chico
+1295	65	1	Cousins cousines
+1296	98	4	Expressions
+1297	144	10	Exergues
+1298	86	7	Excuses
+1299	95	12	Ajouts à La Bibliothèque idéale
+1300	124	7	La religion
+1301	61	9	Sciences humaines
+1302	108	2	Rumeurs
+1303	109	7	Rêves
+1304	119	9	La musique
+1305	103	4	Disparitions
+1306	117	2	La mort
+1307	64	11	Contraires
+1308	114	1	Inventions
+1309	106	7	Us et coutumes
+1310	114	2	Inventions
+1311	32	8	Problèmes d’examen
+1312	143	11	Varia
+1313	132	9	Lapsus
+1314	114	3	Inventions
+1315	21	12	Détails plus ou moins utiles
+1316	119	10	La musique
+1317	67	4	Carnets de Terry
+1318	135	1	Zed et Chico
+1319	81	10	Titres
+1320	68	8	Projets
+1321	104	11	Inquiétudes
+1322	41	1	La vie des saints
+1323	96	7	Personnages
+1324	41	2	La vie des saints
+1325	32	9	Problèmes d’examen
+1326	41	3	La vie des saints
+1327	81	4	Titres
+1328	129	9	Fantasmes
+1329	60	6	Superstitions
+1330	41	4	La vie des saints
+1331	90	3	Lettres
+1332	119	12	La musique
+1333	130	2	Le travail
+1334	108	3	Rumeurs
+1335	60	9	Superstitions
+1336	125	2	La sexualité
+1337	114	9	Inventions
+1338	108	6	Rumeurs
+1339	80	1	Cinquains
+1340	113	10	Collections
+1341	90	9	Lettres
+1342	43	2	Amour
+1343	79	12	Étrangetés
+1344	116	10	Vrai ou faux
+1345	107	12	Nécessités
+1346	134	7	Marianne
+1347	113	11	Collections
+1348	125	3	La sexualité
+1349	42	8	Triage
+1350	37	5	Histoires d’animaux
+1351	104	12	Inquiétudes
+1352	130	4	Le travail
+1353	67	8	Carnets de Terry
+1354	105	5	Réserves
+1355	56	8	Pèlerinages
+1356	64	12	Contraires
+1357	79	7	Étrangetés
+1358	110	1	Un jour de congé
+1359	129	5	Fantasmes
+1360	19	6	Détails intéressants
+1361	57	7	Photocopies
+1362	134	3	Marianne
+1363	126	7	Techniques
+1364	141	9	Obsessions
+1365	66	10	Les vertus
+1366	94	3	Terry et Carmen
+1367	32	12	Problèmes d’examen
+1368	114	7	Inventions
+1369	92	6	Questions sans réponse
+1370	94	4	Terry et Carmen
+1371	130	6	Le travail
+1372	134	4	Marianne
+1373	107	3	Nécessités
+1374	134	5	Marianne
+1375	80	2	Cinquains
+1376	130	5	Le travail
+1377	32	10	Problèmes d’examen
+1378	110	3	Un jour de congé
+1379	89	12	Agacements
+1380	141	3	Obsessions
+1381	129	6	Fantasmes
+1382	110	4	Un jour de congé
+1383	73	3	Virages
+1384	93	2	Le temps
+1385	121	12	Choses à vouloir
+1386	141	10	Obsessions
+1387	96	11	Personnages
+1388	115	1	Catherine et Chico
+1389	76	7	Avatars
+1390	110	5	Un jour de congé
+1391	60	1	Superstitions
+1392	115	2	Catherine et Chico
+1393	121	4	Choses à vouloir
+1394	22	9	Dialogues en vrac
+1395	79	4	Étrangetés
+1396	82	7	Moncton
+1397	92	11	Questions sans réponse
+1398	110	6	Un jour de congé
+1399	76	10	Avatars
+1400	133	7	L’avenir
+1401	96	8	Personnages
+1402	115	3	Catherine et Chico
+1403	112	5	Langues
+1404	134	6	Marianne
+1405	73	10	Virages
+1406	137	11	Peurs
+1407	116	12	Vrai ou faux
+1408	85	1	La Bourse
+1409	130	7	Le travail
+1410	115	4	Catherine et Chico
+1411	128	6	Ferveurs
+1412	110	7	Un jour de congé
+1413	47	9	Abandons
+1414	115	5	Catherine et Chico
+1415	81	12	Titres
+1416	115	6	Catherine et Chico
+1417	56	10	Pèlerinages
+1418	85	3	La Bourse
+1419	134	11	Marianne
+1420	126	8	Techniques
+1421	80	4	Cinquains
+1422	115	7	Catherine et Chico
+1423	110	8	Un jour de congé
+1424	31	10	Questions avec réponse
+1425	17	8	Hasards
+1426	85	2	La Bourse
+1427	127	6	Tactiques
+1428	115	8	Catherine et Chico
+1429	88	12	La liberté
+1430	85	4	La Bourse
+1431	89	11	Agacements
+1432	115	9	Catherine et Chico
+1433	105	8	Réserves
+1434	110	12	Un jour de congé
+1435	32	11	Problèmes d’examen
+1436	85	5	La Bourse
+1437	96	12	Personnages
+1438	85	6	La Bourse
+1439	124	8	La religion
+1440	93	3	Le temps
+1441	144	11	Exergues
+1442	79	1	Étrangetés
+1443	114	10	Inventions
+1444	47	12	Abandons
+1445	67	2	Carnets de Terry
+1446	115	10	Catherine et Chico
+1447	21	8	Détails plus ou moins utiles
+1448	127	7	Tactiques
+1449	42	9	Triage
+1450	115	11	Catherine et Chico
+1451	118	10	À propos du jaune
+1452	109	12	Rêves
+1453	79	5	Étrangetés
+1454	115	12	Catherine et Chico
+1455	75	3	Tankas
+1456	108	5	Rumeurs
+1457	125	10	La sexualité
+1458	113	12	Collections
+1459	70	11	Erreurs
+1460	18	4	Une place pour le monde
+1461	78	1	Accidents
+1462	109	2	Rêves
+1463	132	12	Lapsus
+1464	23	11	Patates
+1465	127	3	Tactiques
+1466	36	9	Fraises
+1467	59	2	Savoirs
+1468	41	10	La vie des saints
+1469	129	12	Fantasmes
+1470	103	11	Disparitions
+1471	114	8	Inventions
+1472	41	5	La vie des saints
+1473	121	10	Choses à vouloir
+1474	123	11	Carmen et Étienne
+1475	92	7	Questions sans réponse
+1476	41	6	La vie des saints
+1477	80	5	Cinquains
+1478	137	8	Peurs
+1479	107	7	Nécessités
+1480	23	10	Patates
+1481	70	12	Erreurs
+1482	133	11	L’avenir
+1483	80	6	Cinquains
+1484	135	7	Zed et Chico
+1485	112	4	Langues
+1486	98	3	Expressions
+1487	87	9	Le corps
+1488	139	2	Étienne et Chico
+1489	80	9	Cinquains
+1490	89	8	Agacements
+1491	86	3	Excuses
+1492	94	5	Terry et Carmen
+1493	60	12	Superstitions
+1494	94	6	Terry et Carmen
+1495	107	8	Nécessités
+1496	94	7	Terry et Carmen
+1497	38	5	Oignons
+1498	105	4	Réserves
+1499	109	10	Rêves
+1500	127	8	Tactiques
+1501	56	4	Pèlerinages
+1502	86	11	Excuses
+1503	4	9	Scrabble
+1504	135	8	Zed et Chico
+1505	58	11	Prolongements
+1506	103	12	Disparitions
+1507	106	3	Us et coutumes
+1508	13	11	La paternité
+1509	131	2	Parenthèse(s)
+1510	82	5	Moncton
+1511	19	11	Détails intéressants
+1512	103	9	Disparitions
+1513	107	10	Nécessités
+1514	7	7	Détails utiles
+1515	23	12	Patates
+1516	86	9	Excuses
+1517	47	8	Abandons
+1518	122	10	Sports
+1519	57	11	Photocopies
+1520	108	7	Rumeurs
+1521	67	12	Carnets de Terry
+1522	130	11	Le travail
+1523	134	10	Marianne
+1524	22	8	Dialogues en vrac
+1525	112	12	Langues
+1526	139	10	Étienne et Chico
+1527	107	11	Nécessités
+1528	82	8	Moncton
+1529	97	6	Les chiffres et les nombres
+1530	101	10	Duos
+1531	17	11	Hasards
+1532	85	7	La Bourse
+1533	71	10	Intro broderie
+1534	121	1	Choses à vouloir
+1535	76	11	Avatars
+1536	133	10	L’avenir
+1537	31	8	Questions avec réponse
+1538	137	10	Peurs
+1539	121	7	Choses à vouloir
+1540	73	8	Virages
+1541	76	12	Avatars
+1542	104	10	Inquiétudes
+1543	80	8	Cinquains
+1544	135	10	Zed et Chico
+1545	128	7	Ferveurs
+1546	82	3	Moncton
+1547	67	10	Carnets de Terry
+1548	133	8	L’avenir
+1549	78	12	Accidents
+1550	130	10	Le travail
+1551	56	12	Pèlerinages
+1552	134	9	Marianne
+1553	120	3	Fictionnaire
+1554	73	7	Virages
+1555	128	1	Ferveurs
+1556	23	8	Patates
+1557	77	2	Grammaire
+1558	82	11	Moncton
+1559	80	3	Cinquains
+1560	106	4	Us et coutumes
+1561	75	11	Tankas
+1562	121	6	Choses à vouloir
+1563	132	5	Lapsus
+1564	139	9	Étienne et Chico
+1565	67	11	Carnets de Terry
+1566	34	3	Lacan
+1567	129	1	Fantasmes
+1568	139	7	Étienne et Chico
+1569	58	8	Prolongements
+1570	20	1	Langue
+1571	17	3	Hasards
+1572	16	12	L’Infirme
+1573	121	3	Choses à vouloir
+1574	85	11	La Bourse
+1575	103	10	Disparitions
+1576	130	1	Le travail
+1577	119	11	La musique
+1578	125	4	La sexualité
+1579	111	8	Outils
+1580	88	5	La liberté
+1581	116	11	Vrai ou faux
+1582	37	12	Histoires d’animaux
+1583	104	6	Inquiétudes
+1584	125	7	La sexualité
+1585	144	12	Exergues
+1586	101	4	Duos
+1587	77	9	Grammaire
+1588	88	7	La liberté
+1589	57	12	Photocopies
+1590	102	10	Le trio
+1591	68	2	Projets
+1592	86	8	Excuses
+1593	132	2	Lapsus
+1594	88	11	La liberté
+1595	56	6	Pèlerinages
+1596	126	4	Techniques
+1597	80	11	Cinquains
+1598	47	4	Abandons
+1599	105	12	Réserves
+1600	85	8	La Bourse
+1601	107	4	Nécessités
+1602	108	9	Rumeurs
+1603	15	5	Monologues non identifiés
+1604	94	8	Terry et Carmen
+1605	78	5	Accidents
+1606	94	9	Terry et Carmen
+1607	128	10	Ferveurs
+1608	139	11	Étienne et Chico
+1609	121	8	Choses à vouloir
+1610	82	12	Moncton
+1611	80	7	Cinquains
+1612	135	4	Zed et Chico
+1613	31	7	Questions avec réponse
+1614	76	4	Avatars
+1615	116	9	Vrai ou faux
+1616	60	11	Superstitions
+1617	80	12	Cinquains
+1618	104	8	Inquiétudes
+1619	133	6	L’avenir
+1620	140	3	Caraquet
+1621	130	9	Le travail
+1622	140	2	Caraquet
+1623	127	10	Tactiques
+1624	135	6	Zed et Chico
+1625	109	11	Rêves
+1626	133	1	L’avenir
+1627	81	5	Titres
+1628	125	8	La sexualité
+1629	99	9	Noms
+1630	108	10	Rumeurs
+1631	75	12	Tankas
+1632	135	11	Zed et Chico
+1633	43	10	Amour
+1634	82	4	Moncton
+1635	100	8	Proverbes
+1636	124	10	La religion
+1637	125	5	La sexualité
+1638	124	11	La religion
+1639	38	8	Oignons
+1640	16	10	L’Infirme
+1641	24	12	Élizabeth
+1642	114	11	Inventions
+1643	67	7	Carnets de Terry
+1644	109	5	Rêves
+1645	141	12	Obsessions
+1646	37	3	Histoires d’animaux
+1647	56	9	Pèlerinages
+1648	36	12	Fraises
+1649	38	7	Oignons
+1650	125	9	La sexualité
+1651	93	8	Le temps
+1652	64	2	Contraires
+1653	81	11	Titres
+1654	4	12	Scrabble
+1655	80	10	Cinquains
+1656	86	5	Excuses
+1657	32	3	Problèmes d’examen
+1658	108	12	Rumeurs
+1659	9	5	Le potager
+1660	140	9	Caraquet
+1661	112	10	Langues
+1662	140	12	Caraquet
+1663	74	9	Hans
+1664	135	12	Zed et Chico
+1665	131	10	Parenthèse(s)
+1666	133	9	L’avenir
+1667	89	7	Agacements
+1668	63	9	Terry et Zed
+1669	79	3	Étrangetés
+1670	94	11	Terry et Carmen
+1671	136	12	L’inavouable
+1672	110	9	Un jour de congé
+1673	91	10	Le poète
+1674	125	12	La sexualité
+1675	105	11	Réserves
+1676	139	3	Étienne et Chico
+1677	67	5	Carnets de Terry
+1678	96	1	Personnages
+1679	126	10	Techniques
+1680	102	11	Le trio
+1681	106	12	Us et coutumes
+1682	139	4	Étienne et Chico
+1683	96	9	Personnages
+1684	132	6	Lapsus
+1685	88	2	La liberté
+1686	141	11	Obsessions
+1687	45	6	Détails inutiles
+1688	125	11	La sexualité
+1689	57	8	Photocopies
+1690	109	1	Rêves
+1691	124	12	La religion
+1692	123	8	Carmen et Étienne
+1693	111	5	Outils
+1694	99	8	Noms
+1695	128	4	Ferveurs
+1696	94	12	Terry et Carmen
+1697	56	11	Pèlerinages
+1698	110	10	Un jour de congé
+1699	95	9	Ajouts à La Bibliothèque idéale
+1700	110	11	Un jour de congé
+1701	56	7	Pèlerinages
+1702	78	10	Accidents
+1703	85	9	La Bourse
+1704	117	11	La mort
+1705	75	5	Tankas
+1706	129	7	Fantasmes
+1707	74	10	Hans
+1708	123	12	Carmen et Étienne
+1709	111	11	Outils
+1710	85	10	La Bourse
+1711	41	11	La vie des saints
+1712	117	9	La mort
+1713	93	1	Le temps
+1714	74	11	Hans
+1715	55	12	Haïkus
+1716	108	4	Rumeurs
+1717	121	5	Choses à vouloir
+1718	139	1	Étienne et Chico
+1719	96	3	Personnages
+1720	85	12	La Bourse
+1721	107	9	Nécessités
+1722	140	10	Caraquet
+1723	99	4	Noms
+1724	139	12	Étienne et Chico
+1725	47	2	Abandons
+1726	133	12	L’avenir
+1727	98	8	Expressions
+1728	41	9	La vie des saints
